@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/c-bata/go-prompt"
-	"github.com/let-us-go/zkcli/core"
+	"github.com/maxjustus/zkcli/core"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/namsral/flag"
 )
